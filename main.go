@@ -25,7 +25,7 @@ func mainHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 // Test json with curl using this:
-// curl -H "Content-Type: application/json" -d '{"text":"this is a really really really important thing this is"}' http://localhost:8888/newapi
+// curl -H "Content-Type: application/json" -d '{"text":"this is a really really really really really really important thing this is"}' http://localhost:8888/newapi
 
 func receiveJSONHandler(w http.ResponseWriter, r *http.Request) {
 	var textIn TextSubmission
