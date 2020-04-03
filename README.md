@@ -1,9 +1,5 @@
 # word-cloud-generator
 It's a golang web app that takes a block of text and turns it into a word cloud. 
-stsietng`
-asldfjaklsdfj
-adkfjaslkdfj
-adsflajsdlfkjasdf
 
 ## Notice
 This project is under active development. This project is being created as a sample app for an upcoming training class on Continuous Delivery with Lynda.com. You can see previous courses we have made at https://lynda.com/JamesWickett. Thanks!
@@ -64,7 +60,4 @@ $ curl -H "Content-Type: application/json" -d '{"text":"ths is a really really r
 
 ## Setup example
 Use this setup
-
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
